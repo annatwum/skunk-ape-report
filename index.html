@@ -218,11 +218,17 @@
   .newtag {
     font-family: 'JetBrains Mono', monospace;
     font-size: 9.5px; font-weight: 700; letter-spacing: 1px;
-    background: var(--pink); color: var(--night);
+    background: linear-gradient(110deg, var(--pink) 42%, #ff8ab8 50%, var(--pink) 58%);
+    background-size: 300% 100%;
+    color: var(--night);
     border-radius: 99px; padding: 2px 8px;
     vertical-align: middle; margin-left: 8px;
-    animation: pulse 1.6s infinite;
+    animation: glisten 4s ease-in-out infinite;
     text-shadow: none;
+  }
+  @keyframes glisten {
+    0%, 55% { background-position: 115% 0; }
+    100% { background-position: -15% 0; }
   }
   .sub { color: var(--muted); font-size: 14px; margin: 12px 0 16px; }
 
