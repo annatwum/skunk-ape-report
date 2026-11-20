@@ -5,4 +5,14 @@
     <lastmod>2026-11-20</lastmod>
     <changefreq>hourly</changefreq>
   </url>
+  <url>
+    <loc>https://skunkapereport.com/about.html</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://skunkapereport.com/privacy.html</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>monthly</changefreq>
+  </url>
 </urlset>
