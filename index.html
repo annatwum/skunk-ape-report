@@ -198,13 +198,15 @@
   }
   nav.jump .wrap {
     display: flex; gap: 6px; flex-wrap: wrap;
+    justify-content: center; align-items: center;
     padding-top: 10px; padding-bottom: 10px;
   }
   nav.jump a {
     font-family: 'JetBrains Mono', monospace;
     font-size: 11.5px; letter-spacing: 1px; text-transform: uppercase;
     color: var(--muted); border: 1px solid var(--line); border-bottom: 1px solid var(--line);
-    border-radius: 99px; padding: 5px 12px;
+    border-radius: 99px; padding: 5px 11px 5px 12px;
+    display: inline-block; line-height: 1.4; text-align: center;
     transition: color .15s, border-color .15s;
   }
   nav.jump a:hover { color: var(--pink); border-color: #ff2e8877; text-shadow: none; }
