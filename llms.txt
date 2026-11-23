@@ -2,12 +2,11 @@
 
 > A fan-made GTA 6 (Grand Theft Auto VI) news and tips site, updated multiple times a day since the game launched on November 19, 2026 for PS5 and Xbox Series X|S. It collects verified cheat codes, confirmed glitches, gameplay tips, easter eggs, and community discoveries from Vice City and Leonida, and credits every item to the outlet or Reddit thread that reported it. Not affiliated with Rockstar Games or Take-Two Interactive.
 
-Verification rules: a cheat code is listed only after at least two reliable cheat trackers confirm it, and a glitch or money method only after at least two reliable outlets confirm it. Items removed by an official patch are marked "patched" with a link to Rockstar's note. The page shows its "Last updated" date in plain text near the top.
+Verification rules: a cheat code is listed only after at least two reliable cheat trackers confirm it, and a glitch or money method only after at least two reliable outlets confirm it. Items removed by an official patch are marked "patched" with a link to Rockstar's note. The page shows its "Last updated" date in plain text in the ticker under the header.
 
 ## Main page
 
 - [The Skunk Ape Report (home)](https://skunkapereport.com/): everything below on one page, with section anchors
-- [Quick answers (FAQ)](https://skunkapereport.com/#faq): short answers on cheat codes, how to enter cheats, the money glitch, first-person mode, and losing a wanted level
 - [GTA 6 cheat codes](https://skunkapereport.com/#cheats): verified codes, how to enter them, and what each needs to unlock, plus a warning about fake code lists
 - [GTA 6 glitches](https://skunkapereport.com/#glitches): confirmed glitches, including the red barn money method, the first-person mode glitch, and the Xbox Series X frame rate trick, with patch status
 - [GTA 6 tips](https://skunkapereport.com/#tips): money-making methods, controls the game doesn't explain, saving, the map, and early-game advice
@@ -15,6 +14,7 @@ Verification rules: a cheat code is listed only after at least two reliable chea
 - [Fun things to try](https://skunkapereport.com/#fun): easter eggs, secret side quests, cameos, and references to earlier Rockstar games
 - [Community finds](https://skunkapereport.com/#community): reader-submitted finds, published only after moderation
 - [All sources](https://skunkapereport.com/#sources): every outlet credited on the site
+- [Quick answers (FAQ)](https://skunkapereport.com/#faq): short answers on cheat codes, how to enter cheats, the money glitch, first-person mode, and losing a wanted level
 
 ## About
 
